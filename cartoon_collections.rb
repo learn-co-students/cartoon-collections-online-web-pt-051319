@@ -1,4 +1,3 @@
-require 'pry'
 
 def roll_call_dwarves(names)
   counter = 0
@@ -27,3 +26,4 @@ def find_the_cheese(foods)
   end
   return nil
 end
+
